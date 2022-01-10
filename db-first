@@ -1,0 +1,47 @@
+  ID                Primary_key
+
+Marca:              Fiat Panda Not Null VARCHARD 25
+
+Prezzo:             9000$ int
+
+Immatricolazione:   02/2008 not null date/year 
+
+Chilometri :        69.750 Km not null Varchar 6
+
+Alimentazione :     Benzina not null Varchar 15
+
+Cambio:             Manuale not null Varchar 10
+
+Cilindrata:         1.242 cc not null
+
+Potenza:            44 KW  60 CV not null 
+
+Posti:              4 not null
+
+Colore:             Bronzo null varchar 20
+
+Descrizione:                      text
+
+                    ID 709144 SPA
+
+
+                    VETTURA GRANDINATA.
+                    Per maggiori informazioni chiamaci adesso oppure compila il form!
+
+
+                    Nota bene: gli optional e le informazioni indicate nella presente scheda potrebbero non coincidere con l'effettivo equipaggiamento del veicolo, a causa della non uniformita' dei dati pubblicati dai differenti portali.
+
+
+                    Alle volte potrebbero essere utilizzate immagini di archivio o immagini di repertorio fornite dalla casa madre. Ci scusiamo in anticipo per l'eventuale inconveniente e ti invitiamo sempre a contattarci per verificare le caratteristiche dello specifico veicolo.
+
+
+                    Denicar spa declina ogni responsabilita' per eventuali involontarie inesattezze, ricordando che dalla presente scheda e dai dati in essa contenuti non scaturisce alcun obbligo contrattuale.
+
+
+                    Consigliamo di verificare sempre preventivamente la disponibilita' del veicolo. Il test drive e' disponibile previo appuntamento.
+
+
+                    Prezzo finale offerto al pubblico, comprensivo di IVA, non vincolato all'acquisto di un finanziamento, né a permuta o rottamazione. Passaggio di proprietà e IPT esclusi.
+
+
+                    Mostra di meno
